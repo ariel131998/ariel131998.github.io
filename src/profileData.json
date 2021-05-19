@@ -1,0 +1,81 @@
+{
+	"landing": {
+		"firstName": "Ariel",
+		"lastName": "Ortega",
+		"phoneNumber": "+52-2228231832",
+		"bio": "I am a Computer Science Engineer interested in working in Machine Learning and Web development.  My tech stack in Machine learning are Python and R, also I had worked with different classifiers and algorithms for information processing. In web development for the frontend, I work with HTML, CSS and Javascript. For the backend, I work with PHP and ajax.",
+    "email": "ariel.ortega.zitle98@gmail.com",
+    "linkedin": "https://www.facebook.com/ariel.ortega.54584/",
+		"github": "https://github.com/ariel131998"
+	},
+	"experience": [
+		{
+				"position": "Dirección de Administración Escolar",
+				"organization": "BUAP",
+				"aboutWork": "Solving Hardware and Software problems in the department",
+				"fromDate": "August 2019",
+				"toDate": "Present"
+		},
+		{
+			"position": "Open Courses",
+			"organization": "Youtube",
+			"aboutWork": "Create tutorial for beginner programmers",
+			"fromDate": "June 2021",
+			"toDate": "Present"
+		},
+		{
+			"position": "Software Development",
+			"organization": "AoZ",
+			"aboutWork": "develop web pages for small businesses",
+			"fromDate": "December 2022",
+			"toDate": "Present"
+		}
+	],
+	"education": [{
+			"university": "Benemérita Universidad Autónoma de Puebla",
+			"degree": "engineering in Computer Science",
+			"gpa": "12.34",
+			"fromDate": "August 2017",
+			"toDate": "Present"
+		}
+	],
+	"skills": [{
+			"name": "HTML5"
+		},
+		{
+			"name": "CSS3"
+		},
+		{
+			"name": "Javascript"
+		},
+		{
+			"name": "R"
+		},
+		{
+			"name": "JAVA"
+		},
+		{
+			"name": "Python"
+		},
+		{
+			"name": "Nodejs"
+		},
+		{
+			"name": "React"
+		}
+	],
+	"interests": {
+		"paragraphOne": "Right now I am in the ninth semester and in my free time, I do exercise like go running or weight training also I enjoy watching old movies, series of any kind, and soccer games. ",
+		"paragraphTwo": "Some of my new hobbies are go skating and learn Japanese."
+	},
+	"awards": [{
+			"awardDetail": "Advanced JAVA"
+		},
+		{
+			"awardDetail": "POP-IB in Engineering"
+		},
+		{
+			"awardDetail": "C1 in English Language"
+		}
+	]
+}
